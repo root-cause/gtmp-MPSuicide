@@ -1,0 +1,7 @@
+<meta>
+    <info name="Suicide" author="rootcause" type="script" />
+
+    <!-- Files -->
+    <script src="Main.cs" type="server" lang="csharp" />
+    <script src="Suicide.js" type="client" lang="javascript" />
+</meta>
